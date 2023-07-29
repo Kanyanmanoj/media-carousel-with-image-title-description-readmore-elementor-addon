@@ -2,8 +2,8 @@
 
 /**
  * Plugin Name: Elementor Image Media Carousel With Title and Description Addon
- * Description: Custom Elementor Addon for adding self-hosted image in the lightbox. Carousel With Title and Description.
- * Plugin URI:  https://github.com/Kanyanmanoj/image-media-with-title-description-for-elementor
+ * Description: Custom Elementor Pro Addon for adding title, description and read more button link in Media Carousel.
+ * Plugin URI:  https://github.com/Kanyanmanoj/media-carousel-with-image-title-description-readmore-elementor-addon
  * Version:     1.0.0
  * Author:      Manoj Kumar
  * Author URI:  https://github.com/Kanyanmanoj
